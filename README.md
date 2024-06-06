@@ -4,3 +4,5 @@ Project incorporates Transfer Learning Technique using pre-trained Resnet50 mode
 The unique part about this project is that training is done on only 500 diverse images, including all the 4 classes, which is considered as a very small dataset for deep learning task.
 Despite very small dataset for training, the overall accuracy achieved is 88 % on Training dataset comprising of 200 diverse images.
 Regularization techniques of L1, L2 and Dropout has been incorporated.
+
+Google Drive links to datasets : https://drive.google.com/drive/folders/1tRlAP_5xCTeISoa_fgkQQspH2GWIhP6m?usp=sharing
